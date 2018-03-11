@@ -1,0 +1,11 @@
+ru\vipconnect\schema\package-info.class
+ru\vipconnect\ws\CardValidatorService.class
+com\mycompany\cardvalidator9client\NewServlet.class
+ru\vipconnect\schema\Validate.class
+ru\vipconnect\ws\CardValidatorException.class
+ru\vipconnect\schema\ObjectFactory.class
+com\mycompany\cardvalidator9client\NewClass.class
+ru\vipconnect\schema\CreditCard.class
+ru\vipconnect\ws\CardValidator.class
+com\mycompany\cardvalidator9client\NewMessageHandler.class
+ru\vipconnect\schema\ValidateResponse.class
